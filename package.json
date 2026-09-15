@@ -1,0 +1,12 @@
+{
+  "name": "interstellar-bare-singapore",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@tomphttp/bare-server-node": "latest",
+    "express": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
